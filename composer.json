@@ -1,0 +1,16 @@
+{
+    "name": "ncut/lara_auto",
+    "description": "autoload classes",
+    "autoload": {
+        "psr-4": {
+            "Ncut\\LaraAuto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "張雅茹",
+            "email": "3a832060@gm.student.ncut.edu.tw"
+        }
+    ],
+    "require": {}
+}
