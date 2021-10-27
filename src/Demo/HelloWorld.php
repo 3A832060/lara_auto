@@ -3,7 +3,7 @@ namespace Demo;
 
 class HelloWorld
 {
-    function _construct()
+    function __construct()
     {
         echo 'Hello World~'.PHP_EOL;
     }
